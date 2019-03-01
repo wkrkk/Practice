@@ -1,6 +1,6 @@
 ### 1018 Big Number
 
-![](https://github.com/wkrkk/RandomPictures/blob/master/TIM%E6%88%AA%E5%9B%BE20190220140329.png?raw=true)
+![](https://github.com/wkrkk/RandomPictures/blob/master/ACM/TIM%E6%88%AA%E5%9B%BE20190220140329.png?raw=true)
 $$
 log10(1*2*3*...*n) = log10(1)+log10(2)+log10(3)+...+log10(n)
 $$

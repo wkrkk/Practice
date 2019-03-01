@@ -1,6 +1,6 @@
 ### 1020 Encoding
 
-![](https://github.com/wkrkk/RandomPictures/blob/master/TIM%E6%88%AA%E5%9B%BE20190220140306.png?raw=true)
+![](https://github.com/wkrkk/RandomPictures/blob/master/ACM/TIM%E6%88%AA%E5%9B%BE20190220140306.png?raw=true)
 
 ```
 #include<stdio.h>
