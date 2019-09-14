@@ -2,6 +2,20 @@
 
 [题目](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)
 
+给定一个二叉树（具有根结点 root）， 一个目标结点 target ，和一个整数值 K 。返回到目标结点 target 距离为 K 的所有结点的值的列表。 答案可以以任何顺序返回。
+
+![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/06/28/sketch0.png)
+
+**示例 ：**
+
+```
+输入：root = [3,5,1,6,2,0,8,null,null,7,4], target = 5, K = 2
+
+输出：[7,4,1]
+```
+
+
+
 ```
 #include<iostream>
 #include<vector>
